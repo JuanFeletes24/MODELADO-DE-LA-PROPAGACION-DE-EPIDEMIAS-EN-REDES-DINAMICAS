@@ -1,0 +1,11 @@
+﻿# Core scientific computing and network analysis libraries
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+networkx>=3.0
+matplotlib>=3.7.0
+
+# Interactive notebooks & animation display
+ipython>=8.10.0
+ipykernel>=6.20.0
+jupyter>=1.0.0
